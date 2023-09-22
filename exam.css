@@ -1,0 +1,15 @@
+@media (max-width: 768px){
+  .sidebar{
+    position: relative;
+    height: 30vh;
+    width: 98vw;
+
+  }
+
+  .content{
+    height: 70vh;
+    width: 100vw;
+    margin-top: 50px;
+    margin-left: 0;
+  }
+}
